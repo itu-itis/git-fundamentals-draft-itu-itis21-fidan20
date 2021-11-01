@@ -1,5 +1,5 @@
 # :wave: The Basics of GitHub  (MODIFIED BY ENES FİDAN,150200713, at 11.41 25.10.2021)(second version coming soon at 12.45 )(thirdversion 1.111.21 before new lesson )
-## 🤓 Course overview and learning outcomes 
+## 🤓 Course overview and learning outcomes (UPDATED LOCALLY REMOTED PUSHLY)(yenibir değişiklilk yaptık üzerinde en son ) (token aldıktan sonra birdaha )
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
